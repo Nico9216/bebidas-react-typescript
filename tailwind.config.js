@@ -7,7 +7,7 @@ export default {
   theme: { //configuro mis clases personalizadas
     extend: {
       backgroundImage:{
-        "header" : "url('/bg.jpg')"
+        "header" : "url('/bg.jpg')" //La clase quedaria bg-header
       }
     },
   },
